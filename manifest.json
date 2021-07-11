@@ -4,8 +4,9 @@
     "display": "standalone",
     "scope": "https://www.girimoyo.com/",
     "start_url": "https://www.girimoyo.com/",
-    "app_name": "Kangen Girimoyo.com",
+    "name": "Kangen Girimoyo.com",
     "short_name": "Girimoyo.com",
+    "description": "Aplikasi Desa Girimoyo.com",
     "icons": [
         {
             "src": "https://1.bp.blogspot.com/-DS8_Co1MPVc/YB40b5SrGvI/AAAAAAAAAGk/nU-GADaOAekSDDdxBRNusVb2_35DNSYIQCNcBGAsYHQ/s0/icon-192x192.png",
