@@ -2,7 +2,7 @@
     "theme_color": "#417505",
     "background_color": "#b8e986",
     "display": "standalone",
-    "scope": ".",
+    "scope": "https://www.girimoyo.com/",
     "start_url": "https://www.girimoyo.com/",
     "prefer_related_applications": "false",
     "name": "Kangen Girimoyo.com",
