@@ -4,7 +4,7 @@
     "display": "standalone",
     "scope": ".",
     "start_url": "/",
-    "prefer_related_applications": false,
+    "prefer_related_applications": "false",
     "name": "Kangen Girimoyo.com",
     "short_name": "Girimoyo.com",
     "description": "Aplikasi Desa Girimoyo.com",
