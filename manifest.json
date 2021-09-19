@@ -3,10 +3,10 @@
     "background_color": "#fff",
     "display": "standalone",
     "start_url": "https://www.girimoyo.com/",
-    "prefer_related_applications": "false",
+    "prefer_related_applications": false,
     "name": "Kangen Girimoyo.com",
     "short_name": "Girimoyo.com",
-    "description": "Aplikasi Desa Girimoyo.com",
+    "description": "Aplikasi Web Desa Serba Online Girimoyo.com Terintegrasi dengan Toko Online untuk UMKM",
     "icons": [
         {
             "src": "https://1.bp.blogspot.com/-DS8_Co1MPVc/YB40b5SrGvI/AAAAAAAAAGk/nU-GADaOAekSDDdxBRNusVb2_35DNSYIQCNcBGAsYHQ/s0/icon-192x192.png",
