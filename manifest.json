@@ -12,25 +12,49 @@
             "src": "https://1.bp.blogspot.com/-Fj7JWHNTwAc/YUfUxFEF6wI/AAAAAAAAATM/QkAMcSPuR2sYXPGyaAou--_OOysFWNvTACNcBGAsYHQ/s192/logo-kangen512.png",
             "sizes": "192x192",
             "type": "image/png",
-            "purpose": "any maskable" 
+            "purpose": "any" 
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-Fj7JWHNTwAc/YUfUxFEF6wI/AAAAAAAAATM/QkAMcSPuR2sYXPGyaAou--_OOysFWNvTACNcBGAsYHQ/s192/logo-kangen512.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable" 
         },
         {
             "src": "https://1.bp.blogspot.com/-Fj7JWHNTwAc/YUfUxFEF6wI/AAAAAAAAATM/QkAMcSPuR2sYXPGyaAou--_OOysFWNvTACNcBGAsYHQ/s256/logo-kangen512.png",
             "sizes": "256x256",
             "type": "image/png",
-            "purpose": "any maskable"
+            "purpose": "any"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-Fj7JWHNTwAc/YUfUxFEF6wI/AAAAAAAAATM/QkAMcSPuR2sYXPGyaAou--_OOysFWNvTACNcBGAsYHQ/s256/logo-kangen512.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "maskable"
         },
         {
             "src": "https://1.bp.blogspot.com/-Fj7JWHNTwAc/YUfUxFEF6wI/AAAAAAAAATM/QkAMcSPuR2sYXPGyaAou--_OOysFWNvTACNcBGAsYHQ/s384/logo-kangen512.png",
             "sizes": "384x384",
             "type": "image/png",
-            "purpose": "any maskable"
+            "purpose": "any"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-Fj7JWHNTwAc/YUfUxFEF6wI/AAAAAAAAATM/QkAMcSPuR2sYXPGyaAou--_OOysFWNvTACNcBGAsYHQ/s384/logo-kangen512.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "maskable"
         },
         {
             "src": "https://1.bp.blogspot.com/-Fj7JWHNTwAc/YUfUxFEF6wI/AAAAAAAAATM/QkAMcSPuR2sYXPGyaAou--_OOysFWNvTACNcBGAsYHQ/s512/logo-kangen512.png",
             "sizes": "512x512",
             "type": "image/png",
-            "purpose": "any maskable"
+            "purpose": "any"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-Fj7JWHNTwAc/YUfUxFEF6wI/AAAAAAAAATM/QkAMcSPuR2sYXPGyaAou--_OOysFWNvTACNcBGAsYHQ/s512/logo-kangen512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
         }
     ]
 }
